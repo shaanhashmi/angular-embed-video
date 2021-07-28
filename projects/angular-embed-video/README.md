@@ -16,11 +16,10 @@ $ npm install angular-embed-video --save
 and then in your Angular `AppModule`:
 
 ```typescript
-import { HttpClientModule } from '@angular/common/http';
-import { EmbedVideo } from 'angular-embed-video';
+import { EmbedVideoModule } from 'angular-embed-video';
 
 @NgModule({
-  imports: [HttpClientModule, EmbedVideo.forRoot()]
+  imports: [EmbedVideoModule]
 })
 export class AppModule {}
 ```
