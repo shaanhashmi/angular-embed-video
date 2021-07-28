@@ -1,6 +1,35 @@
 {
   "name": "angular-embed-video",
   "version": "0.0.1",
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/shaanhashmi/angular-embed-video"
+  },
+  "author": {
+    "name": "shaanhashmi",
+    "email": "developershaan@gmail.com"
+  },
+  "keywords": [
+    "typescript",
+    "angular",
+    "angular6",
+		"angular9",
+		"angular12",
+    "ng8",
+    "ng12",
+    "ngx",
+    "embed-video",
+    "embed",
+    "typescript",
+    "youtube",
+    "vimeo",
+    "dailymotion",
+    "video"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaanhashmi/angular-embed-video/issues"
+  },
   "peerDependencies": {
     "@angular/common": "^12.1.0-",
     "@angular/core": "^12.1.0-"
